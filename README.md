@@ -1,2 +1,2 @@
 # Portfolio
-A compilation of projects
+My name is Ana and I am currently a senior at Simmons University. I am interested in cybersecurity, but after my participation in the Break Through Tech AI Program this past summer machine learning is something I have become passionate about. One of my significant projects is my final project for the program in which I have built and trained a model to predict whether a given Airbnb is bookable or not. I am passionate about racial equity and advocating for minority communities.
